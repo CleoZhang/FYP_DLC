@@ -19,8 +19,7 @@ numframes2pick: 20
 
     # Plotting configuration
 skeleton:
-- - lefthand
-  - righthand
+- - hand
 skeleton_color: black
 pcutoff: 0.6
 dotsize: 12
