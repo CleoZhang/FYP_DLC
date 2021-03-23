@@ -19,7 +19,10 @@ numframes2pick: 20
 
     # Plotting configuration
 skeleton:
-- - hand
+- - bodypart1
+  - bodypart2
+- - objectA
+  - bodypart3
 skeleton_color: black
 pcutoff: 0.6
 dotsize: 12
